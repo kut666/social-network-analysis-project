@@ -1,4 +1,4 @@
-## Social network analysis project
+<h2 align="center">Social network analysis project
 
 ### This project is an analysis of my VK social network
 
